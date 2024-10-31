@@ -1,5 +1,5 @@
 export default {
-    "colo": {
+    "fg": {
         "name": "Pokémon Fool's Gold",
         "gen": 3,
         "dex_slugs": [
