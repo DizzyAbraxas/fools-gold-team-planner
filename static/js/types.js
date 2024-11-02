@@ -105,7 +105,7 @@ export default [
             "fighting": {
                 "immune2": [],
                 "resists": [ "bug", "rock", "dark" ],
-                "weak2": [ "flying", "psychic" ]
+                "weak2": [ "flying", "psychic", "fairy" ]
             },
             "flying": {
                 "immune2": [ "ground" ],
@@ -114,7 +114,7 @@ export default [
             },
             "poison": {
                 "immune2": [],
-                "resists": [ "fighting", "grass", "bug", "poison" ],
+                "resists": [ "fighting", "grass", "bug", "poison", "fairy" ],
                 "weak2": [ "psychic", "ground" ]
             },
             "ground": {
@@ -139,12 +139,12 @@ export default [
             },
             "steel": {
                 "immune2": [ "poison" ],
-                "resists": [ "dark", "ghost", "normal", "grass", "bug", "rock", "steel", "flying", "psychic", "dragon", "ice" ],
+                "resists": [ "dark", "ghost", "normal", "grass", "bug", "rock", "steel", "flying", "psychic", "dragon", "ice", "fairy" ],
                 "weak2": [ "ground", "fire", "fighting" ]
             },
             "fire": {
                 "immune2": [],
-                "resists": [ "grass", "bug", "fire", "steel", "ice" ],
+                "resists": [ "grass", "bug", "fire", "steel", "ice", "fairy" ],
                 "weak2": [ "rock", "ground", "water" ]
             },
             "water": {
@@ -175,12 +175,12 @@ export default [
             "dragon": {
                 "immune2": [],
                 "resists": [ "grass", "electric", "fire", "water" ],
-                "weak2": [ "ice", "dragon" ]
+                "weak2": [ "ice", "dragon", "fairy" ]
             },
             "dark": {
                 "immune2": [ "psychic" ],
                 "resists": [ "dark", "ghost" ],
-                "weak2": [ "bug", "fighting" ]
+                "weak2": [ "bug", "fighting", "fairy" ]
             },
             "fairy": {
                 "immune2": [ "dragon" ],
