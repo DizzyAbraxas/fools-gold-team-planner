@@ -186,6 +186,11 @@ export default [
                 "immune2": [ "dragon" ],
                 "resists": [ "bug", "fighting", "dark" ],
                 "weak2": [ "poison", "steel" ]
+            },
+            "???": {
+                "immune2": [],
+                "resists": [],
+                "weak2": []
             }
         }
     },
