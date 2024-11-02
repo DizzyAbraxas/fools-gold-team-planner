@@ -181,6 +181,11 @@ export default [
                 "immune2": [ "psychic" ],
                 "resists": [ "dark", "ghost" ],
                 "weak2": [ "bug", "fighting" ]
+            },
+            "fairy": {
+                "immune2": [ "dragon" ],
+                "resists": [ "bug", "fighting", "dark" ],
+                "weak2": [ "poison", "steel" ]
             }
         }
     },
