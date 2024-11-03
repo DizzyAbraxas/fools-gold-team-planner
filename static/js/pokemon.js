@@ -5421,7 +5421,7 @@ export default {
         "base_id": 292,
         "form_id": 0,
         "name": "Shedinja",
-        "pokemon_type": [ "bug", "unknown" ],
+        "pokemon_type": [ "bug", "shedinja" ],
         "egg_group": [ "mineral" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
