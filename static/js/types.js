@@ -187,7 +187,7 @@ export default [
                 "resists": [ "bug", "fighting", "dark" ],
                 "weak2": [ "poison", "steel" ]
             },
-            "???": {
+            "unknown": {
                 "immune2": [],
                 "resists": [],
                 "weak2": []
