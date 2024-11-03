@@ -191,6 +191,11 @@ export default [
                 "immune2": [],
                 "resists": [],
                 "weak2": []
+            },
+            "shedinja": {
+                "immune2": [ "normal", "fire", "water", "electric", "grass", "ice", "fighting", "poison", "ground", "flying", "rock" ],
+                "resists": [],
+                "weak2": []
             }
         }
     },
