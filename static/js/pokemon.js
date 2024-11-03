@@ -6141,7 +6141,7 @@ export default {
         "base_id": 336,
         "form_id": 0,
         "name": "Seviper",
-        "pokemon_type": [ "drak", "grass" ],
+        "pokemon_type": [ "dark", "grass" ],
         "egg_group": [ "field", "dragon" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
