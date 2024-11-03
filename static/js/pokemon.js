@@ -5244,7 +5244,6 @@ export default {
         "form_id": 0,
         "name": "Ralts",
         "pokemon_type": [ "grass", "poison" ],
-        "past_type": { "generation": 6, "pokemon_type": [ "psychic" ] },
         "egg_group": [ "amorphous" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
