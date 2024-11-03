@@ -7025,7 +7025,6 @@ export default {
         "base_id": 386,
         "form_id": 0,
         "name": "Deoxys",
-        "form_name": "Normal Forme",
         "pokemon_type": [ "unknown" ],
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
