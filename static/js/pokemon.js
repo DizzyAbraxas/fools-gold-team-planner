@@ -5409,7 +5409,7 @@ export default {
         "base_id": 291,
         "form_id": 0,
         "name": "Ninjask",
-        "pokemon_type": [ "bug"= ],
+        "pokemon_type": [ "bug" ],
         "egg_group": [ "bug" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
