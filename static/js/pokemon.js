@@ -7050,7 +7050,7 @@ export default {
         "shape": 11,
         "color": "red",
         "experience_group": "Slow",
-        "generation": 5
+        "generation": 3
     },
     "deoxys-defense": {
         "base_id": 386,
@@ -7065,7 +7065,7 @@ export default {
         "shape": 11,
         "color": "red",
         "experience_group": "Slow",
-        "generation": 5
+        "generation": 3
     },
     "deoxys-speed": {
         "base_id": 386,
@@ -7080,7 +7080,7 @@ export default {
         "shape": 11,
         "color": "red",
         "experience_group": "Slow",
-        "generation": 5
+        "generation": 3
     },
     "turtwig": {
         "base_id": 387,
