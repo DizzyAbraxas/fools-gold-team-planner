@@ -7352,7 +7352,7 @@ export default {
         "shape": 11,
         "color": "green",
         "experience_group": "Medium Slow",
-        "generation": 4,
+        "generation": 3,
         "evolution_ids": [ [ 315, 0 ] ]
     },
     "roserade": {
@@ -7366,7 +7366,7 @@ export default {
         "shape": 11,
         "color": "green",
         "experience_group": "Medium Slow",
-        "generation": 4
+        "generation": 3
     },
     "cranidos": {
         "base_id": 408,
@@ -7701,7 +7701,7 @@ export default {
         "shape": 10,
         "color": "purple",
         "experience_group": "Fast",
-        "generation": 4
+        "generation": 3
     },
     "drifloon": {
         "base_id": 425,
@@ -7784,7 +7784,7 @@ export default {
         "shape": 1,
         "color": "purple",
         "experience_group": "Fast",
-        "generation": 4
+        "generation": 3
     },
     "honchkrow": {
         "base_id": 430,
@@ -7797,7 +7797,7 @@ export default {
         "shape": 12,
         "color": "black",
         "experience_group": "Medium Slow",
-        "generation": 4
+        "generation": 3
     },
     "glameow": {
         "base_id": 431,
@@ -7838,7 +7838,7 @@ export default {
         "shape": 11,
         "color": "yellow",
         "experience_group": "Fast",
-        "generation": 4,
+        "generation": 3,
         "evolution_ids": [ [ 358, 0 ] ]
     },
     "stunky": {
@@ -7907,7 +7907,7 @@ export default {
         "shape": 2,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 4,
+        "generation": 3,
         "evolution_ids": [ [ 185, 0 ] ]
     },
     "mime-jr": {
@@ -7923,7 +7923,7 @@ export default {
         "shape": 11,
         "color": "pink",
         "experience_group": "Medium Fast",
-        "generation": 4,
+        "generation": 3,
         "evolution_ids": [ [ 122, 0 ], [ 122, 1 ] ]
     },
     "happiny": {
@@ -7938,7 +7938,7 @@ export default {
         "shape": 11,
         "color": "pink",
         "experience_group": "Fast",
-        "generation": 4,
+        "generation": 3,
         "evolution_ids": [ [ 113, 0 ] ]
     },
     "chatot": {
@@ -8036,7 +8036,7 @@ export default {
         "shape": 11,
         "color": "black",
         "experience_group": "Slow",
-        "generation": 4,
+        "generation": 3,
         "evolution_ids": [ [ 143, 0 ] ]
     },
     "riolu": {
@@ -8216,7 +8216,7 @@ export default {
         "shape": 12,
         "color": "blue",
         "experience_group": "Slow",
-        "generation": 4,
+        "generation": 3,
         "evolution_ids": [ [ 226, 0 ] ]
     },
     "snover": {
@@ -8273,7 +8273,7 @@ export default {
         "shape": 10,
         "color": "black",
         "experience_group": "Medium Slow",
-        "generation": 4
+        "generation": 3
     },
     "magnezone": {
         "base_id": 462,
@@ -8286,7 +8286,7 @@ export default {
         "shape": 14,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "lickilicky": {
         "base_id": 463,
@@ -8299,7 +8299,7 @@ export default {
         "shape": 11,
         "color": "pink",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "rhyperior": {
         "base_id": 464,
@@ -8312,7 +8312,7 @@ export default {
         "shape": 10,
         "color": "gray",
         "experience_group": "Slow",
-        "generation": 4
+        "generation": 3
     },
     "tangrowth": {
         "base_id": 465,
@@ -8325,7 +8325,7 @@ export default {
         "shape": 11,
         "color": "blue",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "electivire": {
         "base_id": 466,
@@ -8338,7 +8338,7 @@ export default {
         "shape": 10,
         "color": "yellow",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "magmortar": {
         "base_id": 467,
@@ -8351,7 +8351,7 @@ export default {
         "shape": 10,
         "color": "red",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "togekiss": {
         "base_id": 468,
@@ -8365,7 +8365,7 @@ export default {
         "shape": 12,
         "color": "white",
         "experience_group": "Fast",
-        "generation": 4
+        "generation": 3
     },
     "yanmega": {
         "base_id": 469,
@@ -8378,7 +8378,7 @@ export default {
         "shape": 6,
         "color": "green",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "leafeon": {
         "base_id": 470,
@@ -8391,7 +8391,7 @@ export default {
         "shape": 5,
         "color": "green",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "glaceon": {
         "base_id": 471,
@@ -8404,7 +8404,7 @@ export default {
         "shape": 5,
         "color": "blue",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "gliscor": {
         "base_id": 472,
@@ -8417,7 +8417,7 @@ export default {
         "shape": 12,
         "color": "purple",
         "experience_group": "Medium Slow",
-        "generation": 4
+        "generation": 3
     },
     "mamoswine": {
         "base_id": 473,
@@ -8430,7 +8430,7 @@ export default {
         "shape": 5,
         "color": "brown",
         "experience_group": "Slow",
-        "generation": 4
+        "generation": 3
     },
     "porygon-z": {
         "base_id": 474,
@@ -8443,7 +8443,7 @@ export default {
         "shape": 14,
         "color": "red",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "gallade": {
         "base_id": 475,
@@ -8456,7 +8456,7 @@ export default {
         "shape": 11,
         "color": "white",
         "experience_group": "Slow",
-        "generation": 4
+        "generation": 3
     },
     "gallade-mega": {
         "base_id": 475,
@@ -8485,7 +8485,7 @@ export default {
         "shape": 7,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "dusknoir": {
         "base_id": 477,
@@ -8498,7 +8498,7 @@ export default {
         "shape": 14,
         "color": "black",
         "experience_group": "Fast",
-        "generation": 4
+        "generation": 3
     },
     "froslass": {
         "base_id": 478,
@@ -8511,7 +8511,7 @@ export default {
         "shape": 14,
         "color": "white",
         "experience_group": "Medium Fast",
-        "generation": 4
+        "generation": 3
     },
     "rotom": {
         "base_id": 479,
@@ -8857,7 +8857,7 @@ export default {
         "shape": 5,
         "color": "white",
         "experience_group": "Slow",
-        "generation": 4
+        "generation": 3
     },
     "arceus-fighting": {
         "base_id": 493,
@@ -12994,7 +12994,7 @@ export default {
         "shape": 5,
         "color": "pink",
         "experience_group": "Medium Fast",
-        "generation": 6
+        "generation": 3
     },
     "hawlucha": {
         "base_id": 701,
@@ -16003,7 +16003,7 @@ export default {
         "shape": 10,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 3
     },
     "perrserker": {
         "base_id": 863,
@@ -16016,7 +16016,7 @@ export default {
         "shape": 10,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 3
     },
     "cursola": {
         "base_id": 864,
@@ -16029,7 +16029,7 @@ export default {
         "shape": 14,
         "color": "white",
         "experience_group": "Fast",
-        "generation": 8
+        "generation": 3
     },
     "sirfetchd": {
         "base_id": 865,
@@ -16042,7 +16042,7 @@ export default {
         "shape": 12,
         "color": "white",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 3
     },
     "mr-rime": {
         "base_id": 866,
@@ -16055,7 +16055,7 @@ export default {
         "shape": 11,
         "color": "purple",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 3
     },
     "runerigus": {
         "base_id": 867,
@@ -16777,7 +16777,7 @@ export default {
         "shape": 5,
         "color": "white",
         "experience_group": "Slow",
-        "generation": 8
+        "generation": 3
     },
     "kleavor": {
         "base_id": 900,
@@ -16790,7 +16790,7 @@ export default {
         "shape": 6,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 3
     },
     "ursaluna": {
         "base_id": 901,
@@ -16803,7 +16803,7 @@ export default {
         "shape": 5,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 3
     },
     "ursaluna-bloodmoon": {
         "base_id": 901,
@@ -16858,7 +16858,7 @@ export default {
         "shape": 10,
         "color": "purple",
         "experience_group": "Medium Slow",
-        "generation": 8
+        "generation": 3
     },
     "overqwil": {
         "base_id": 904,
@@ -16871,7 +16871,7 @@ export default {
         "shape": 3,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 3
     },
     "enamorus": {
         "base_id": 905,
@@ -18022,7 +18022,7 @@ export default {
         "shape": 10,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 9
+        "generation": 3
     },
     "clodsire": {
         "base_id": 980,
@@ -18035,7 +18035,7 @@ export default {
         "shape": 5,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 9
+        "generation": 3
     },
     "farigiraf": {
         "base_id": 981,
@@ -18048,7 +18048,7 @@ export default {
         "shape": 5,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 9
+        "generation": 3
     },
     "dudunsparce": {
         "base_id": 982,
@@ -18062,7 +18062,7 @@ export default {
         "shape": 13,
         "color": "yellow",
         "experience_group": "Medium Fast",
-        "generation": 9
+        "generation": 3
     },
     "dudunsparce-three-segment": {
         "base_id": 982,
