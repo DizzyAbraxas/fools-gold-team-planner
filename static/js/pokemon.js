@@ -5276,7 +5276,7 @@ export default {
         "pokemon_type": [ "psychic", "fairy" ],
         "past_type": { "generation": 6, "pokemon_type": [ "psychic" ] },
         "egg_group": [ "amorphous" ],
-        "gender": [ "mf" ],
+        "gender": [ "fo" ],
         "gender_ratio": 4,
         "shape": 11,
         "color": "white",
