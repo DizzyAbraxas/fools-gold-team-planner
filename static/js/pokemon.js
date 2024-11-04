@@ -41,21 +41,19 @@ export default {
         "experience_group": "Medium Slow",
         "generation": 1
     },
-    "venusaur-mega": {
+    "venusaur-sevii": {
         "base_id": 3,
         "form_id": 1,
         "name": "Venusaur",
-        "form_name": "Mega Venusaur",
-        "pokemon_type": [ "grass", "poison" ],
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "poison", "fire" ],
         "egg_group": [ "monster", "grass" ],
         "gender": [ "mf" ],
         "gender_ratio": 1,
-        "is_mega": true,
-        "is_battle_only": true,
         "shape": 5,
         "color": "green",
         "experience_group": "Medium Slow",
-        "generation": 6
+        "generation": 1
     },
     "charmander": {
         "base_id": 4,
@@ -99,21 +97,19 @@ export default {
         "experience_group": "Medium Slow",
         "generation": 1
     },
-    "charizard-mega-x": {
+    "charizard-sevii": {
         "base_id": 6,
         "form_id": 1,
         "name": "Charizard",
-        "form_name": "Mega Charizard X",
-        "pokemon_type": [ "fire", "dragon" ],
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "fire", "ghost" ],
         "egg_group": [ "monster", "dragon" ],
         "gender": [ "mf" ],
         "gender_ratio": 1,
-        "is_mega": true,
-        "is_battle_only": true,
         "shape": 10,
         "color": "black",
         "experience_group": "Medium Slow",
-        "generation": 6
+        "generation": 1
     },
     "charizard-mega-y": {
         "base_id": 6,
@@ -173,21 +169,19 @@ export default {
         "experience_group": "Medium Slow",
         "generation": 1
     },
-    "blastoise-mega": {
+    "blastoise-sevii": {
         "base_id": 9,
         "form_id": 1,
         "name": "Blastoise",
-        "form_name": "Mega Blastoise",
-        "pokemon_type": [ "water" ],
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "dark", "dragon" ],
         "egg_group": [ "monster", "water_1" ],
         "gender": [ "mf" ],
         "gender_ratio": 1,
-        "is_mega": true,
-        "is_battle_only": true,
         "shape": 10,
         "color": "blue",
         "experience_group": "Medium Slow",
-        "generation": 6
+        "generation": 1
     },
     "caterpie": {
         "base_id": 10,
@@ -302,6 +296,21 @@ export default {
         "generation": 1,
         "evolution_ids": [ [ 17, 0 ] ]
     },
+    "pidgey-kanto": {
+        "base_id": 16,
+        "form_id": 1,
+        "name": "Pidgey",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "dark", "flying" ],
+        "egg_group": [ "flying" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 12,
+        "color": "brown",
+        "experience_group": "Medium Slow",
+        "generation": 1,
+        "evolution_ids": [ [ 17, 1 ] ]
+    },
     "pidgeotto": {
         "base_id": 17,
         "form_id": 0,
@@ -316,6 +325,21 @@ export default {
         "generation": 1,
         "evolution_ids": [ [ 18, 0 ] ]
     },
+    "pidgeotto-kanto": {
+        "base_id": 17,
+        "form_id": 1,
+        "name": "Pidgeotto",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "dark", "flying" ],
+        "egg_group": [ "flying" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 12,
+        "color": "brown",
+        "experience_group": "Medium Slow",
+        "generation": 1,
+        "evolution_ids": [ [ 18, 1 ] ]
+    },
     "pidgeot": {
         "base_id": 18,
         "form_id": 0,
@@ -329,21 +353,19 @@ export default {
         "experience_group": "Medium Slow",
         "generation": 1
     },
-    "pidgeot-mega": {
+    "pidgeot-kanto": {
         "base_id": 18,
         "form_id": 1,
         "name": "Pidgeot",
-        "form_name": "Mega Pidgeot",
-        "pokemon_type": [ "normal", "flying" ],
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "dark", "flying" ],
         "egg_group": [ "flying" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
-        "is_mega": true,
-        "is_battle_only": true,
         "shape": 12,
         "color": "brown",
         "experience_group": "Medium Slow",
-        "generation": 6
+        "generation": 1
     },
     "rattata": {
         "base_id": 19,
@@ -539,19 +561,19 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 1
     },
-    "sandslash-alola": {
+    "sandslash-kanto": {
         "base_id": 28,
         "form_id": 1,
         "name": "Sandslash",
-        "form_name": "Alolan Form",
-        "pokemon_type": [ "ice", "steel" ],
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "normal", "poison" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "shape": 10,
         "color": "blue",
         "experience_group": "Medium Fast",
-        "generation": 7
+        "generation": 1
     },
     "nidoran-f": {
         "base_id": 29,
@@ -841,6 +863,20 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 1
     },
+    "parasect-sevii": {
+        "base_id": 47,
+        "form_id": 1,
+        "name": "Parasect",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "steel", "bug" ],
+        "egg_group": [ "bug", "grass" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 4,
+        "color": "red",
+        "experience_group": "Medium Fast",
+        "generation": 1
+    },
     "venonat": {
         "base_id": 48,
         "form_id": 0,
@@ -860,6 +896,20 @@ export default {
         "form_id": 0,
         "name": "Venomoth",
         "pokemon_type": [ "bug" ],
+        "egg_group": [ "bug" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 6,
+        "color": "purple",
+        "experience_group": "Medium Fast",
+        "generation": 1
+    },
+    "venomoth-kanto": {
+        "base_id": 49,
+        "form_id": 1,
+        "name": "Venomoth",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "bug", "grass" ],
         "egg_group": [ "bug" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -910,19 +960,19 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 1
     },
-    "dugtrio-alola": {
+    "dugtrio-kanto": {
         "base_id": 51,
         "form_id": 1,
         "name": "Dugtrio",
-        "form_name": "Alolan Form",
-        "pokemon_type": [ "ground", "steel" ],
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "rock", "electric" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "shape": 7,
         "color": "brown",
         "experience_group": "Medium Fast",
-        "generation": 7
+        "generation": 1
     },
     "meowth": {
         "base_id": 52,
@@ -1189,21 +1239,19 @@ export default {
         "experience_group": "Medium Slow",
         "generation": 1
     },
-    "alakazam-mega": {
+    "alakazam-sevii": {
         "base_id": 65,
         "form_id": 1,
         "name": "Alakazam",
-        "form_name": "Mega Alakazam",
-        "pokemon_type": [ "psychic" ],
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "dark", "dragon" ],
         "egg_group": [ "human_like" ],
         "gender": [ "mf" ],
         "gender_ratio": 2,
-        "is_mega": true,
-        "is_battle_only": true,
         "shape": 11,
         "color": "brown",
         "experience_group": "Medium Slow",
-        "generation": 6
+        "generation": 1
     },
     "machop": {
         "base_id": 66,
@@ -1302,11 +1350,40 @@ export default {
         "generation": 1,
         "evolution_ids": [ [ 73, 0 ] ]
     },
+    "tentacool-kanto": {
+        "base_id": 72,
+        "form_id": 1,
+        "name": "Tentacool",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "water", "electric" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 8,
+        "color": "blue",
+        "experience_group": "Slow",
+        "generation": 1,
+        "evolution_ids": [ [ 73, 1 ] ]
+    },
     "tentacruel": {
         "base_id": 73,
         "form_id": 0,
         "name": "Tentacruel",
         "pokemon_type": [ "water", "psychic" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 8,
+        "color": "blue",
+        "experience_group": "Slow",
+        "generation": 1
+    },
+    "tentacruel-kanto": {
+        "base_id": 73,
+        "form_id": 1,
+        "name": "Tentacruel",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "water", "electric" ],
         "egg_group": [ "water_3" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -1652,19 +1729,19 @@ export default {
         "generation": 1,
         "evolution_ids": [ [ 89, 0 ] ]
     },
-    "grimer-alola": {
+    "grimer-kanto": {
         "base_id": 88,
         "form_id": 1,
         "name": "Grimer",
-        "form_name": "Alolan Form",
-        "pokemon_type": [ "poison", "dark" ],
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "fighting" ],
         "egg_group": [ "amorphous" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "shape": 14,
         "color": "green",
         "experience_group": "Medium Fast",
-        "generation": 7,
+        "generation": 1,
         "evolution_ids": [ [ 89, 1 ] ]
     },
     "muk": {
@@ -1680,19 +1757,33 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 1
     },
-    "muk-alola": {
+    "muk-kantof": {
         "base_id": 89,
         "form_id": 1,
         "name": "Muk",
-        "form_name": "Alolan Form",
-        "pokemon_type": [ "poison", "dark" ],
+        "form_name": "Kantonian Form, Female",
+        "pokemon_type": [ "fighting" ],
         "egg_group": [ "amorphous" ],
-        "gender": [ "mf" ],
-        "gender_ratio": 4,
+        "gender": [ "fo" ],
+        "gender_ratio": 8,
         "shape": 14,
         "color": "green",
         "experience_group": "Medium Fast",
-        "generation": 7
+        "generation": 1
+    },
+    "muk-kantom": {
+        "base_id": 89,
+        "form_id": 2,
+        "name": "Muk",
+        "form_name": "Kantonian Form, Male",
+        "pokemon_type": [ "fighting" ],
+        "egg_group": [ "amorphous" ],
+        "gender": [ "mo" ],
+        "gender_ratio": 0,
+        "shape": 14,
+        "color": "green",
+        "experience_group": "Medium Fast",
+        "generation": 1
     },
     "shellder": {
         "base_id": 90,
@@ -1708,10 +1799,39 @@ export default {
         "generation": 1,
         "evolution_ids": [ [ 91, 0 ] ]
     },
+    "shellder-sevii": {
+        "base_id": 90,
+        "form_id": 1,
+        "name": "Shellder",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "fighting", "steel" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 1,
+        "color": "purple",
+        "experience_group": "Slow",
+        "generation": 1,
+        "evolution_ids": [ [ 91, 1 ] ]
+    },
     "cloyster": {
         "base_id": 91,
         "form_id": 0,
         "name": "Cloyster",
+        "pokemon_type": [ "fighting", "steel" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 1,
+        "color": "purple",
+        "experience_group": "Slow",
+        "generation": 1
+    },
+    "cloyster-sevii": {
+        "base_id": 91,
+        "form_id": 1,
+        "name": "Cloyster",
+        "form_name": "Seviian Form",
         "pokemon_type": [ "fighting", "steel" ],
         "egg_group": [ "water_3" ],
         "gender": [ "mf" ],
@@ -1834,11 +1954,41 @@ export default {
         "generation": 1,
         "evolution_ids": [ [ 99, 0 ] ]
     },
+    "krabby-kanto": {
+        "base_id": 98,
+        "form_id": 1,
+        "name": "Krabby",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "grass" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 4,
+        "color": "red",
+        "experience_group": "Medium Fast",
+        "generation": 1,
+        "evolution_ids": [ [ 99, 1 ] ]
+    },
     "kingler": {
         "base_id": 99,
         "form_id": 0,
         "name": "Kingler",
         "pokemon_type": [ "normal", "electric" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "has_gigantamax": true,
+        "shape": 4,
+        "color": "red",
+        "experience_group": "Medium Fast",
+        "generation": 1
+    },
+    "kingler-kanto": {
+        "base_id": 99,
+        "form_id": 1,
+        "name": "Kingler",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "grass", "electric" ],
         "egg_group": [ "water_3" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -2053,19 +2203,19 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 1
     },
-    "weezing-galar": {
+    "weezing-kanto": {
         "base_id": 110,
         "form_id": 1,
         "name": "Weezing",
-        "form_name": "Galarian Form",
-        "pokemon_type": [ "poison", "fairy" ],
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "fire", "flying" ],
         "egg_group": [ "amorphous" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "shape": 7,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 8
+        "generation": 1
     },
     "rhyhorn": {
         "base_id": 111,
@@ -2221,11 +2371,40 @@ export default {
         "generation": 1,
         "evolution_ids": [ [ 121, 0 ] ]
     },
+    "staryu-sevii": {
+        "base_id": 120,
+        "form_id": 1,
+        "name": "Staryu",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "psychic", "dark" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "uk" ],
+        "gender_ratio": -1,
+        "shape": 9,
+        "color": "brown",
+        "experience_group": "Slow",
+        "generation": 1,
+        "evolution_ids": [ [ 121, 1 ] ]
+    },
     "starmie": {
         "base_id": 121,
         "form_id": 0,
         "name": "Starmie",
         "pokemon_type": [ "water", "ground" ],
+        "egg_group": [ "water_3" ],
+        "gender": [ "uk" ],
+        "gender_ratio": -1,
+        "shape": 9,
+        "color": "purple",
+        "experience_group": "Slow",
+        "generation": 1
+    },
+    "starmie-sevii": {
+        "base_id": 121,
+        "form_id": 1,
+        "name": "Starmie",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "psychic", "dark" ],
         "egg_group": [ "water_3" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
@@ -2428,21 +2607,19 @@ export default {
         "experience_group": "Slow",
         "generation": 1
     },
-    "gyarados-mega": {
+    "gyarados-sevii": {
         "base_id": 130,
         "form_id": 1,
         "name": "Gyarados",
-        "form_name": "Mega Gyarados",
-        "pokemon_type": [ "water", "dark" ],
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "ground", "psychic" ],
         "egg_group": [ "water_2", "dragon" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
-        "is_mega": true,
-        "is_battle_only": true,
         "shape": 13,
         "color": "blue",
         "experience_group": "Slow",
-        "generation": 6
+        "generation": 1
     },
     "lapras": {
         "base_id": 131,
@@ -2650,12 +2827,12 @@ export default {
         "experience_group": "Slow",
         "generation": 1
     },
-    "articuno-galar": {
+    "articuno-beta": {
         "base_id": 144,
         "form_id": 1,
         "name": "Articuno",
-        "form_name": "Galarian Form",
-        "pokemon_type": [ "psychic", "flying" ],
+        "form_name": "Beta Version",
+        "pokemon_type": [ "ice", "unknown" ],
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
@@ -2663,7 +2840,7 @@ export default {
         "shape": 12,
         "color": "purple",
         "experience_group": "Slow",
-        "generation": 8
+        "generation": 1
     },
     "zapdos": {
         "base_id": 145,
@@ -2679,12 +2856,12 @@ export default {
         "experience_group": "Slow",
         "generation": 1
     },
-    "zapdos-galar": {
+    "zapdos-beta": {
         "base_id": 145,
         "form_id": 1,
         "name": "Zapdos",
-        "form_name": "Galarian Form",
-        "pokemon_type": [ "fighting", "flying" ],
+        "form_name": "Beta Version",
+        "pokemon_type": [ "electric", "unknown" ],
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
@@ -2692,7 +2869,7 @@ export default {
         "shape": 12,
         "color": "yellow",
         "experience_group": "Slow",
-        "generation": 8
+        "generation": 1
     },
     "moltres": {
         "base_id": 146,
@@ -2708,12 +2885,12 @@ export default {
         "experience_group": "Slow",
         "generation": 1
     },
-    "moltres-galar": {
+    "moltres-beta": {
         "base_id": 146,
         "form_id": 1,
         "name": "Moltres",
-        "form_name": "Galarian Form",
-        "pokemon_type": [ "dark", "flying" ],
+        "form_name": "Beta Version",
+        "pokemon_type": [ "fire", "unknown" ],
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
@@ -2721,7 +2898,7 @@ export default {
         "shape": 12,
         "color": "red",
         "experience_group": "Slow",
-        "generation": 8
+        "generation": 1
     },
     "dratini": {
         "base_id": 147,
@@ -2840,6 +3017,21 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 153, 0 ] ]
     },
+    "chikorita-sevii": {
+        "base_id": 152,
+        "form_id": 1,
+        "name": "Chikorita",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "unknown" ],
+        "egg_group": [ "monster" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 5,
+        "color": "green",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 153, 1 ] ]
+    },
     "bayleef": {
         "base_id": 153,
         "form_id": 0,
@@ -2854,11 +3046,54 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 154, 0 ] ]
     },
+    "bayleef-sevii": {
+        "base_id": 153,
+        "form_id": 1,
+        "name": "Bayleef",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "unknown" ],
+        "egg_group": [ "monster" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 5,
+        "color": "green",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 154, 2 ] ]
+    },
     "meganium": {
         "base_id": 154,
         "form_id": 0,
         "name": "Meganium",
         "pokemon_type": [ "fighting" ],
+        "egg_group": [ "monster" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 5,
+        "color": "green",
+        "experience_group": "Medium Slow",
+        "generation": 2
+    },
+    "meganium-kanto": {
+        "base_id": 154,
+        "form_id": 1,
+        "name": "Meganium",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "fighting", "ground" ],
+        "egg_group": [ "monster" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 5,
+        "color": "green",
+        "experience_group": "Medium Slow",
+        "generation": 2
+    },
+    "meganium-sevii": {
+        "base_id": 154,
+        "form_id": 2,
+        "name": "Meganium",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "unknown" ],
         "egg_group": [ "monster" ],
         "gender": [ "mf" ],
         "gender_ratio": 1,
@@ -2881,6 +3116,21 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 156, 0 ] ]
     },
+    "cyndaquil-sevii": {
+        "base_id": 155,
+        "form_id": 1,
+        "name": "Cyndaquil",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "ground" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 11,
+        "color": "yellow",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 156, 1 ] ]
+    },
     "quilava": {
         "base_id": 156,
         "form_id": 0,
@@ -2895,6 +3145,21 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 157, 0 ], [ 157, 1 ] ]
     },
+    "quilava-sevii": {
+        "base_id": 156,
+        "form_id": 1,
+        "name": "Quilava",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "ground", "steel" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 5,
+        "color": "yellow",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 157, 2 ] ]
+    },
     "typhlosion": {
         "base_id": 157,
         "form_id": 0,
@@ -2908,19 +3173,33 @@ export default {
         "experience_group": "Medium Slow",
         "generation": 2
     },
-    "typhlosion-hisui": {
+    "typhlosion-kanto": {
         "base_id": 157,
         "form_id": 1,
         "name": "Typhlosion",
-        "form_name": "Hisuian Form",
-        "pokemon_type": [ "fire", "ghost" ],
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "ice", "psychic" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
         "gender_ratio": 1,
         "shape": 5,
         "color": "yellow",
         "experience_group": "Medium Slow",
-        "generation": 8
+        "generation": 2
+    },
+    "typhlosion-sevii": {
+        "base_id": 157,
+        "form_id": 1,
+        "name": "Typhlosion",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "ground", "steel" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 5,
+        "color": "yellow",
+        "experience_group": "Medium Slow",
+        "generation": 2
     },
     "totodile": {
         "base_id": 158,
@@ -2936,6 +3215,21 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 159, 0 ] ]
     },
+    "totodile-sevii": {
+        "base_id": 158,
+        "form_id": 1,
+        "name": "Totodile",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "normal", "electric" ],
+        "egg_group": [ "monster", "water_1" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 10,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 159, 1 ] ]
+    },
     "croconaw": {
         "base_id": 159,
         "form_id": 0,
@@ -2950,11 +3244,54 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 160, 0 ] ]
     },
+    "croconaw-sevii": {
+        "base_id": 159,
+        "form_id": 1,
+        "name": "Croconaw",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "flying", "electric" ],
+        "egg_group": [ "monster", "water_1" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 10,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 160, 2 ] ]
+    },
     "feraligatr": {
         "base_id": 160,
         "form_id": 0,
         "name": "Feraligatr",
         "pokemon_type": [ "flying" ],
+        "egg_group": [ "monster", "water_1" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 10,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 2
+    },
+    "feraligatr-kanto": {
+        "base_id": 160,
+        "form_id": 1,
+        "name": "Feraligatr",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "flying", "ghost" ],
+        "egg_group": [ "monster", "water_1" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 10,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 2
+    },
+    "feraligatr-sevii": {
+        "base_id": 160,
+        "form_id": 2,
+        "name": "Feraligatr",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "flying", "bug" ],
         "egg_group": [ "monster", "water_1" ],
         "gender": [ "mf" ],
         "gender_ratio": 1,
@@ -2977,11 +3314,40 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 162, 0 ] ]
     },
+    "sentret-kanto": {
+        "base_id": 161,
+        "form_id": 1,
+        "name": "Sentret",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "poison", "flying" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 5,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 2,
+        "evolution_ids": [ [ 162, 1 ] ]
+    },
     "furret": {
         "base_id": 162,
         "form_id": 0,
         "name": "Furret",
         "pokemon_type": [ "normal", "flying" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 5,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "furret-kanto": {
+        "base_id": 162,
+        "form_id": 1,
+        "name": "Furret",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "poison", "flying" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -3076,6 +3442,20 @@ export default {
         "form_id": 0,
         "name": "Crobat",
         "pokemon_type": [ "psychic", "flying" ],
+        "egg_group": [ "flying", "amorphous" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 6,
+        "color": "purple",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "crobat-sevii": {
+        "base_id": 169,
+        "form_id": 1,
+        "name": "Crobat",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "psychic", "rock" ],
         "egg_group": [ "flying", "amorphous" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -3184,6 +3564,21 @@ export default {
         "experience_group": "Fast",
         "generation": 2,
         "evolution_ids": [ [ 468, 0 ] ]
+    },
+    "togetic-kanto": {
+        "base_id": 176,
+        "form_id": 1,
+        "name": "Togetic",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "poison", "dragon" ],
+        "egg_group": [ "monster", "dragon" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 11,
+        "color": "white",
+        "experience_group": "Fast",
+        "generation": 2,
+        "evolution_ids": [ [ 468, 1 ] ]
     },
     "natu": {
         "base_id": 177,
@@ -3349,6 +3744,21 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 188, 0 ] ]
     },
+    "hoppip-sevii": {
+        "base_id": 187,
+        "form_id": 1,
+        "name": "Hoppip",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "grass" ],
+        "egg_group": [ "grass" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 10,
+        "color": "pink",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 188, 1 ] ]
+    },
     "skiploom": {
         "base_id": 188,
         "form_id": 0,
@@ -3363,11 +3773,40 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 189, 0 ] ]
     },
+    "skiploom-sevii": {
+        "base_id": 188,
+        "form_id": 1,
+        "name": "Skiploom",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "grass" ],
+        "egg_group": [ "grass" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 10,
+        "color": "green",
+        "experience_group": "Medium Slow",
+        "generation": 2,
+        "evolution_ids": [ [ 189, 1 ] ]
+    },
     "jumpluff": {
         "base_id": 189,
         "form_id": 0,
         "name": "Jumpluff",
         "pokemon_type": [ "grass", "ground" ],
+        "egg_group": [ "grass" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 10,
+        "color": "blue",
+        "experience_group": "Medium Slow",
+        "generation": 2
+    },
+    "jumpluff-sevii": {
+        "base_id": 189,
+        "form_id": 1,
+        "name": "Jumpluff",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "grass" ],
         "egg_group": [ "grass" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -4014,11 +4453,40 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 205, 0 ] ]
     },
+    "pineco-kanto": {
+        "base_id": 204,
+        "form_id": 1,
+        "name": "Pineco",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "water" ],
+        "egg_group": [ "bug" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 1,
+        "color": "gray",
+        "experience_group": "Medium Fast",
+        "generation": 2,
+        "evolution_ids": [ [ 205, 1 ] ]
+    },
     "forretress": {
         "base_id": 205,
         "form_id": 0,
         "name": "Forretress",
         "pokemon_type": [ "bug", "flying" ],
+        "egg_group": [ "bug" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 1,
+        "color": "purple",
+        "experience_group": "Medium Fast",
+        "generation": 2
+    },
+    "forretress-kanto": {
+        "base_id": 205,
+        "form_id": 1,
+        "name": "Forretress",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "water" ],
         "egg_group": [ "bug" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -4098,11 +4566,40 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 210, 0 ] ]
     },
+    "snubbull-kanto": {
+        "base_id": 209,
+        "form_id": 1,
+        "name": "Snubbull",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "dark" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 6,
+        "shape": 11,
+        "color": "pink",
+        "experience_group": "Fast",
+        "generation": 2,
+        "evolution_ids": [ [ 210, 1 ] ]
+    },
     "granbull": {
         "base_id": 210,
         "form_id": 0,
         "name": "Granbull",
         "pokemon_type": [ "normal", "fighting" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 6,
+        "shape": 10,
+        "color": "purple",
+        "experience_group": "Fast",
+        "generation": 2
+    },
+    "granbull-kanto": {
+        "base_id": 210,
+        "form_id": 1,
+        "name": "Granbull",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "dark", "ghost" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
         "gender_ratio": 6,
@@ -4123,21 +4620,22 @@ export default {
         "color": "gray",
         "experience_group": "Medium Fast",
         "generation": 2
+        "evolution_ids": [ [ 904, 0 ] ]
     },
-    "qwilfish-hisui": {
+    "qwilfish-sevii": {
         "base_id": 211,
         "form_id": 1,
         "name": "Qwilfish",
-        "form_name": "Hisuian Form",
-        "pokemon_type": [ "dark", "poison" ],
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "fairy" ],
         "egg_group": [ "water_2" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
         "shape": 3,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 8,
-        "evolution_ids": [ [ 904, 0 ] ]
+        "generation": 2,
+        "evolution_ids": [ [ 904, 1 ] ]
     },
     "scizor": {
         "base_id": 212,
@@ -4173,6 +4671,20 @@ export default {
         "form_id": 0,
         "name": "Shuckle",
         "pokemon_type": [ "rock" ],
+        "egg_group": [ "water_1" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 4,
+        "color": "yellow",
+        "experience_group": "Medium Slow",
+        "generation": 2
+    },
+    "shuckle-kanto": {
+        "base_id": 213,
+        "form_id": 1,
+        "name": "Shuckle",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "rock", "steel" ],
         "egg_group": [ "water_1" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -4253,6 +4765,21 @@ export default {
         "generation": 2,
         "evolution_ids": [ [ 217, 0 ] ]
     },
+    "teddiursa-kanto": {
+        "base_id": 216,
+        "form_id": 1,
+        "name": "Teddiursa",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "ice", "psychic" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 10,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 2,
+        "evolution_ids": [ [ 217, 1 ] ]
+    },
     "ursaring": {
         "base_id": 217,
         "form_id": 0,
@@ -4266,6 +4793,21 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 2,
         "evolution_ids": [ [ 901, 0 ] ]
+    },
+    "ursaring-kanto": {
+        "base_id": 217,
+        "form_id": 1,
+        "name": "Ursaring",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "ice", "psychic" ],
+        "egg_group": [ "field" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 10,
+        "color": "brown",
+        "experience_group": "Medium Fast",
+        "generation": 2,
+        "evolution_ids": [ [ 901, 1 ] ]
     },
     "slugma": {
         "base_id": 218,
@@ -8491,6 +9033,20 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 3
     },
+    "lickilicky-sevii": {
+        "base_id": 463,
+        "form_id": 1,
+        "name": "Lickilicky",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "water", "poison" ],
+        "egg_group": [ "monster" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 11,
+        "color": "pink",
+        "experience_group": "Medium Fast",
+        "generation": 3
+    },
     "rhyperior": {
         "base_id": 464,
         "form_id": 0,
@@ -8548,6 +9104,20 @@ export default {
         "form_id": 0,
         "name": "Togekiss",
         "pokemon_type": [ "ground" ],
+        "egg_group": [ "flying", "fairy" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 1,
+        "shape": 12,
+        "color": "white",
+        "experience_group": "Fast",
+        "generation": 3
+    },
+    "togekiss-kanto": {
+        "base_id": 468,
+        "form_id": 1,
+        "name": "Togekiss",
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "poison", "dragon" ],
         "egg_group": [ "flying", "fairy" ],
         "gender": [ "mf" ],
         "gender_ratio": 1,
@@ -16994,12 +17564,12 @@ export default {
         "experience_group": "Medium Fast",
         "generation": 3
     },
-    "ursaluna-bloodmoon": {
+    "ursaluna-kanto": {
         "base_id": 901,
         "form_id": 1,
         "name": "Ursaluna",
-        "form_name": "Bloodmoon",
-        "pokemon_type": [ "ground", "normal" ],
+        "form_name": "Kantonian Form",
+        "pokemon_type": [ "ice", "psychic" ],
         "egg_group": [ "field" ],
         "gender": [ "mo" ],
         "gender_ratio": 0,
@@ -17054,6 +17624,20 @@ export default {
         "form_id": 0,
         "name": "Overqwil",
         "pokemon_type": [ "water", "steel" ],
+        "egg_group": [ "water_2" ],
+        "gender": [ "mf" ],
+        "gender_ratio": 4,
+        "shape": 3,
+        "color": "gray",
+        "experience_group": "Medium Fast",
+        "generation": 3
+    },
+    "overqwil-sevii": {
+        "base_id": 904,
+        "form_id": 1,
+        "name": "Overqwil",
+        "form_name": "Seviian Form",
+        "pokemon_type": [ "fairy" ],
         "egg_group": [ "water_2" ],
         "gender": [ "mf" ],
         "gender_ratio": 4,
@@ -18961,5 +19545,18 @@ export default {
         "color": "purple",
         "experience_group": "Slow",
         "generation": 9
+    },
+    "missingno": {
+        "base_id": 1026,
+        "form_id": 0,
+        "name": "Missingno.",
+        "pokemon_type": [ "unknown" ],
+        "egg_group": [ "undiscovered" ],
+        "gender": [ "uk" ],
+        "gender_ratio": -1,
+        "shape": 14,
+        "color": "purple",
+        "experience_group": "Medium Slow",
+        "generation": 1
     }
 };
