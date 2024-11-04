@@ -3189,7 +3189,7 @@ export default {
     },
     "typhlosion-sevii": {
         "base_id": 157,
-        "form_id": 1,
+        "form_id": 2,
         "name": "Typhlosion",
         "form_name": "Seviian Form",
         "pokemon_type": [ "ground", "steel" ],
