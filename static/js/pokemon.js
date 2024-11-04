@@ -4619,7 +4619,7 @@ export default {
         "shape": 3,
         "color": "gray",
         "experience_group": "Medium Fast",
-        "generation": 2
+        "generation": 2,
         "evolution_ids": [ [ 904, 0 ] ]
     },
     "qwilfish-sevii": {
