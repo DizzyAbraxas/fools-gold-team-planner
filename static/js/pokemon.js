@@ -17571,7 +17571,7 @@ export default {
         "form_name": "Kantonian Form",
         "pokemon_type": [ "ice", "psychic" ],
         "egg_group": [ "field" ],
-        "gender": [ "mo" ],
+        "gender": [ "mf" ],
         "gender_ratio": 0,
         "shape": 5,
         "color": "brown",
