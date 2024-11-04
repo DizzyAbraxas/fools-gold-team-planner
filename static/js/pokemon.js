@@ -7028,7 +7028,7 @@ export default {
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
         "gender_ratio": -1,
-        "is_legendary": true,
+        "is_mythical": true,
         "shape": 11,
         "color": "red",
         "experience_group": "Slow",
