@@ -18051,7 +18051,6 @@ export default {
         "base_id": 982,
         "form_id": 0,
         "name": "Dudunsparce",
-        "form_name": "Two-Segment Form",
         "pokemon_type": [ "steel", "fire" ],
         "egg_group": [ "field" ],
         "gender": [ "mf" ],
