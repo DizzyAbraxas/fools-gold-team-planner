@@ -197,6 +197,11 @@ export default [
                 "resists": [],
                 "weak2": []
             },
+            "arceus": {
+                "immune2": [],
+                "resists": [ "normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "steel", "fire", "water", "grass", "electric", "psychic", "ice", "dragon", "dark", "fairy", "unknown" ],
+                "weak2": []
+            }
         }
     },
     {
