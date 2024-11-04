@@ -8848,7 +8848,6 @@ export default {
         "base_id": 493,
         "form_id": 0,
         "name": "Arceus",
-        "pokemon_type": [ "unknown" ],
         "pokemon_type": [ "normal" ],
         "egg_group": [ "undiscovered" ],
         "gender": [ "uk" ],
